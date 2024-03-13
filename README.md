@@ -2,11 +2,17 @@
 
 
 🎮 Follow this guide to run the mod: 
+--------------------------------------
 1️⃣ Download and install Forge 1.8.9.
+--------------------------------------
 2️⃣ Navigate to the \AppData\Roaming\.minecraft.
+--------------------------------------
 3️⃣ Place the downloaded mod into the mods folder.
+--------------------------------------
 4️⃣ Open the Minecraft launcher and select the Minecraft 1.8.9 Forge version. 
+--------------------------------------
 5️⃣ Launch Minecraft.
+--------------------------------------
 6️⃣ Enjoy an enhanced gaming experience!
 
 📝 Description:
